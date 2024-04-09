@@ -830,17 +830,6 @@
           "horizontal_margin": 8
         }
       },
-      "followings": {
-        "version": "1.0.0",
-        "builder_type": "page",
-        "position_model": {
-          "version": "1.0.0",
-          "body_alignment": "center",
-          "title_alignment": "center",
-          "vertical_margin": 16,
-          "horizontal_margin": 16
-        }
-      },
       "onboarding": {
         "content": {
           "body": {
@@ -1517,11 +1506,6 @@
                   "value": "favorites",
                   "imageLink": "star-fill",
                   "sortNumber": 2
-                },
-                "подписки": {
-                  "value": "followings",
-                  "imageLink": "heart-fill",
-                  "sortNumber": 3
                 },
                 "уведомления": {
                   "value": "notifications",
