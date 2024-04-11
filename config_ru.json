@@ -842,12 +842,12 @@
                 },
                 "просто расслабиться": {
                   "duration": 1500,
-                  "imageLink": "assets/images/png/onboarding_mock_2.png",
+                  "imageLink": "assets/images/png/onboarding_mock_3.png",
                   "sortNumber": 3
                 },
                 "вариации досуга и бизнеса": {
                   "duration": 1500,
-                  "imageLink": "assets/images/png/onboarding_mock_3.png",
+                  "imageLink": "assets/images/png/onboarding_mock_2.png",
                   "sortNumber": 2
                 }
               }
