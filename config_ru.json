@@ -366,7 +366,7 @@
         },
         "version": "1.0.0",
         "show_free": true,
-        "show_social": true,
+        "show_social": false,
         "builder_type": "page",
         "position_model": {
           "version": "1.0.0",
