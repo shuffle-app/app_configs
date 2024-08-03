@@ -837,17 +837,17 @@
               "properties": {
                 "немного повеселиться": {
                   "duration": 1500,
-                  "imageLink": "assets/images/png/onboarding_mock_1.png",
+                  "imageLink": "https://shuffle-app-production.s3.eu-west-2.amazonaws.com/static-files/onboarding/onboarding_mock_1.png",
                   "sortNumber": 1
                 },
                 "просто расслабиться": {
                   "duration": 1500,
-                  "imageLink": "assets/images/png/onboarding_mock_3.png",
+                  "imageLink": "https://shuffle-app-production.s3.eu-west-2.amazonaws.com/static-files/onboarding/onboarding_mock_3.png",
                   "sortNumber": 3
                 },
                 "вариации досуга и бизнеса": {
                   "duration": 1500,
-                  "imageLink": "assets/images/png/onboarding_mock_2.png",
+                  "imageLink": "https://shuffle-app-production.s3.eu-west-2.amazonaws.com/static-files/onboarding/onboarding_mock_2.png",
                   "sortNumber": 2
                 }
               }
@@ -1621,7 +1621,7 @@
                 },
                 "Doctors": {
                   "type": "services",
-                  "imageLink": "assets/images/png/Doctor.png",
+                  "imageLink": "https://shuffle-app-production.s3.eu-west-2.amazonaws.com/static-files/search-social/Doctor.png",
                   "sortNumber": 5
                 },
                 "Parcels": {
@@ -1632,7 +1632,7 @@
                 },
                 "Manicure": {
                   "type": "services",
-                  "imageLink": "assets/images/png/manicure.png",
+                  "imageLink": "https://shuffle-app-production.s3.eu-west-2.amazonaws.com/static-files/search-social/manicure.png",
                   "sortNumber": 1
                 },
                 "Pharmacy": {
@@ -1649,12 +1649,12 @@
                 },
                 "Training": {
                   "type": "services",
-                  "imageLink": "assets/images/png/coach.png",
+                  "imageLink": "https://shuffle-app-production.s3.eu-west-2.amazonaws.com/static-files/search-social/coach.png",
                   "sortNumber": 2
                 },
                 "Accountant": {
                   "type": "services",
-                  "imageLink": "assets/images/png/Accountant.png",
+                  "imageLink": "https://shuffle-app-production.s3.eu-west-2.amazonaws.com/static-files/search-social/Accountant.png",
                   "sortNumber": 3
                 },
                 "Transportation": {
@@ -1665,7 +1665,7 @@
                 },
                 "Real Estate Consulting": {
                   "type": "services",
-                  "imageLink": "assets/images/png/real.png",
+                  "imageLink": "https://shuffle-app-production.s3.eu-west-2.amazonaws.com/static-files/search-social/real.png",
                   "sortNumber": 4
                 }
               }
